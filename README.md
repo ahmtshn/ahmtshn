@@ -1,16 +1,35 @@
-### Hi there 👋
+# 👋 Hello, I'm Ahmet!
 
-<!--
-**ahmtshn/ahmtshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and experienced Senior Front-end Developer specializing in React.js and React Native, with a good grasp of Next.js as well.
 
-Here are some ideas to get you started:
+## 📊 Skill Levels
+| Skills        | Level |
+| ------------- |:-----:|
+| React Native  | ★★★★★ |
+| Next.js       | ★★★★☆ |
+| React.js      | ★★★★★ |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Technical Stack
+
+- **Front-end**: React.js, React Native, Next.js
+- **Back-end**: Flask, Node.js, Redis
+- **Others**: Git, Heroku, Bitrise, Firebase etc.
+
+## 💼 Experience
+
+**Enhance Ventures**: Senior Front-end Developer
+
+**Tmob**: Front-end Developer
+
+**Efatech**: Full-stack Developer
+
+## 🎓 Education
+
+- **Cumhuriyet University**: Computer Engineering
+
+## 📨 Contact Me
+
+- Email: ahmt.shn58@gmail.com
+- LinkedIn: [Ahmet Sahin](www.linkedin.com/in/ahmtshn)
+- Twitter: [Ahmet Sahin](https://twitter.com/ahmtshinnn)
+
