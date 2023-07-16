@@ -1,13 +1,14 @@
 # 👋 Hello, I'm Ahmet!
 
-I'm a passionate and experienced Senior Front-end Developer specializing in React.js and React Native, with a good grasp of Next.js as well.
+I'm a passionate and experienced Front-end Developer specializing in React.js and React Native, with a good grasp of Next.js as well.
 
 ## 📊 Skill Levels
 | Skills        | Level |
 | ------------- |:-----:|
 | React Native  | ★★★★★ |
-| Next.js       | ★★★★☆ |
 | React.js      | ★★★★★ |
+| TypeScript      | ★★★★★ |
+| Next.js       | ★★★★☆ |
 
 ## 👨‍💻 Technical Stack
 
