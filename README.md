@@ -20,11 +20,11 @@ I'm a passionate and experienced Front-end Developer specializing in React.js an
 
 **Ares Inter GmbH**: Senior Front-end Developer
 
-**Enhance Ventures**: Senior Front-end Developer
+*Enhance Ventures: Senior Front-end Developer*
 
-**Tmob**: Front-end Developer
+*Tmob: Front-end Developer*
 
-**Efatech**: Full-stack Developer
+*Efatech: Full-stack Developer*
 
 ## 🎓 Education
 
