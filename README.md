@@ -34,5 +34,4 @@ I'm a passionate and experienced Front-end Developer specializing in React.js an
 
 - Email: ahmt.shn58@gmail.com
 - LinkedIn: [Ahmet Sahin](www.linkedin.com/in/ahmtshn)
-- Twitter: [Ahmet Sahin](https://twitter.com/ahmtshinnn)
 
