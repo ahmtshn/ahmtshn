@@ -8,7 +8,7 @@ I'm a passionate and experienced Front-end Developer specializing in React.js an
 | React Native  | ★★★★★ |
 | React.js      | ★★★★★ |
 | TypeScript      | ★★★★★ |
-| Next.js       | ★★★★☆ |
+| Next.js       | ★★★★★ |
 
 ## 👨‍💻 Technical Stack
 
