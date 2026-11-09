@@ -2,7 +2,7 @@
 
 AI & software development consultant. Founder of [Yesi](https://yesiapp.com), an AI relationship coach for couples.
 
-I build AI-powered mobile and web products, with 8 years of experience in React Native, React, Next.js, TypeScript and Node.js.
+I build AI-powered mobile and web products. 10 years of experience, mostly with React Native, React, Next.js, TypeScript and Node.js.
 
 ## What I work on
 
