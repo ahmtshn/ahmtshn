@@ -1,37 +1,28 @@
-# 👋 Hello, I'm Ahmet!
+# Ahmet Şahin
 
-I'm a passionate and experienced Front-end Developer specializing in React.js and React Native, with a good grasp of Next.js as well.
+AI & software development consultant. Founder of [Yesi](https://yesiapp.com), an AI relationship coach for couples.
 
-## 📊 Skill Levels
-| Skills        | Level |
-| ------------- |:-----:|
-| React Native  | ★★★★★ |
-| React.js      | ★★★★★ |
-| TypeScript      | ★★★★★ |
-| Next.js       | ★★★★★ |
+I build AI-powered mobile and web products, with 8 years of experience in React Native, React, Next.js, TypeScript and Node.js.
 
-## 👨‍💻 Technical Stack
+## What I work on
 
-- **Front-end**: React.js, React Native, Next.js
-- **Back-end**: Flask, Node.js, Redis
-- **Others**: Git, Heroku, Bitrise, Firebase etc.
+- **[Yesi](https://yesiapp.com)**: AI relationship coach for couples, live on the App Store and Google Play. I designed and built the mobile app, the backend and the AI system.
+- **Pingram**: AI photo-editing mobile app. Full-stack development.
+- **QuickNote**: AI mobile app that takes any link or file, summarises it and pulls out the key points. Full-stack development.
+- **[Mangolif](https://mangolif.com)**: practice-management software for dietitians. Mobile and web development.
 
-## 💼 Experience
+## Earlier
 
-**Ares Inter GmbH**: Senior Front-end Developer
+- **Joi Gifts**, the MENA region's largest online gift platform: built the Next.js storefront, then led the React Native customer app.
+- **Istanbulkart** (at TMOB): mobile and web apps of Istanbul's public-transport card.
 
-*Enhance Ventures: Senior Front-end Developer*
+## Stack
 
-*Tmob: Front-end Developer*
+Artificial Intelligence (AI) · TypeScript · React Native (Expo) · React · Next.js · Node.js · Flutter · GraphQL · Swift/Kotlin native modules · CI/CD
 
-*Efatech: Full-stack Developer*
+Most of my work lives in private repositories.
 
-## 🎓 Education
-
-- **Cumhuriyet University**: Computer Engineering
-
-## 📨 Contact Me
+## Contact
 
 - Email: ahmt.shn58@gmail.com
-- LinkedIn: [Ahmet Sahin](www.linkedin.com/in/ahmtshn)
-
+- LinkedIn: [linkedin.com/in/ahmtshn](https://www.linkedin.com/in/ahmtshn)
